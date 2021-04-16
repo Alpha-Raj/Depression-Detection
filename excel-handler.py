@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from data_preprocessing import preprocess
 
 # Directory which will hold the transcripts.csv file of all the participants
 DIRECTORY = "data"
@@ -41,7 +42,7 @@ def open_and_extract():
                     value = row['value']
                     x_train = x_train + " " + value
             print("Data found Participant Id:" + participant_id)
-            data.append([x_train, y_train])
+            data.append([preprocess(x_train), y_train])
     data_df = pd.DataFrame(data, columns=[Participant_ID, PHQ8_Score])
     data_df.to_csv("Dev-Data", sep=',', index=False)
 
