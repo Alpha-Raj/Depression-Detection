@@ -1,0 +1,249 @@
+start_time	stop_time	speaker	value
+11.429	12.289	Participant	<synch>
+31.877	53.417	Ellie	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+54.272	54.682	Participant	yes
+55.828	56.288	Ellie	okay_confirm (okay)
+57.815	60.085	Ellie	how_doingV (so how are you doing today)
+59.873	60.293	Participant	okay
+61.699	62.339	Ellie	thats_good (that's good)
+62.593	63.913	Ellie	where_originally (where are you from originally)
+64.777	65.224	Participant	l_a
+66.261	66.851	Ellie	really (really)
+68.169	70.279	Ellie	like_about_LA (what are some things you really like about l_a)
+71.822	73.012	Participant	uh the smog
+73.683	74.923	Participant	traffic tickets
+76.242	76.762	Participant	high rent
+80.309	80.769	Ellie	okay_confirm (okay)
+81.885	84.235	Ellie	dont_like_LA (what are some things you don't really like about l_a)
+86.481	87.891	Participant	uh everything
+91.436	91.976	Ellie	like_what (like what)
+94.942	96.432	Participant	um like um
+99.105	100.252	Participant	the cost of living
+102.899	103.704	Participant	the smog
+103.57	104.01	Ellie	yeah_downer (yeah)
+107.036	107.267	Participant	yeah
+108.196	109.226	Ellie	see_mean (i see what you mean)
+110.671	116.853	Ellie	travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+112.53	112.89	Participant	<clears throat>
+117.179	117.889	Participant	not anymore
+119.602	120.172	Ellie	why2 (why)
+121.012	122.042	Participant	uh don't have the time
+128.226	129.746	Ellie	travel_changed (what do you enjoy about traveling)
+130.989	131.536	Participant	um
+132.035	134.529	Participant	the meeting new people the food
+135.503	137.163	Participant	the nature
+138.17	139.22	Participant	explore different
+140.093	140.683	Participant	areas
+140.234	140.744	Ellie	mhm (mhm)
+142.493	144.173	Ellie	travel_trips (i'd love to hear about one of your trips)
+147.204	149.441	Participant	um i've been to the east coast
+150.418	151.298	Participant	and that's about it
+152.597	153.007	Ellie	cool3 (cool)
+153.979	156.339	Ellie	memorableB (what's one of your most memorable experiences)
+158.614	160.082	Participant	um just going to college
+161.179	162.109	Participant	in the east coast
+163.612	164.772	Ellie	tell_about_that (can you tell me about that)
+166.702	168.797	Participant	um i just went for two years
+170.744	171.539	Participant	and uh
+172.031	174.768	Participant	i mean for one year and i was there for like three years yeah
+175.3	176.752	Participant	that was it i came back to l_a
+177.521	177.991	Ellie	uh_huh (uh huh)
+180.223	181.363	Ellie	study (what did you study at school)
+182.533	183.413	Participant	uh business
+185.538	186.948	Ellie	hard_decision (how did you decide to do that)
+189.961	190.635	Participant	um
+191.366	193.74	Participant	i had graduated high school and um
+195.3	196.94	Participant	i knew i had to do something else
+198.173	198.915	Participant	for the future
+200.819	201.819	Ellie	happy_didthat (are you happy you did that)
+203.482	204.803	Participant	yeah yes and no
+206.59	207.16	Ellie	why2 (why)
+208.688	211.951	Participant	uh because i sought that eh experience
+212.611	213.461	Participant	i got to travel
+214.074	214.274	Participant	<clears throat>
+215.889	216.349	Ellie	okay_confirm (okay)
+217.668	218.868	Ellie	dream_job (what's your dream job)
+221.377	222.037	Participant	um
+222.537	222.847	Participant	<clears throat>
+224.959	228.809	Participant	uh just uh being a personal trainer and real estate
+231.012	232.142	Ellie	sounds_interesting (that sounds interesting)
+233.668	235.098	Ellie	change_directions (what made you decide to do that)
+236.788	238.557	Participant	um it seems like um
+239.42	241.514	Participant	that's what i'm capable of doing right now
+244.063	245.013	Ellie	understand (i understand)
+247.593	251.985	Ellie	shyoutgoing (do you consider yourself more shy or outgoing)
+251.568	253.083	Participant	both depends where i'm at
+255.461	255.921	Ellie	okay_confirm (okay)
+257.396	269.454	Ellie	relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+269.793	271.043	Participant	eat and work out
+273.489	273.999	Ellie	mhm (mhm)
+275.634	277.694	Ellie	control_temper (how are you at controlling your temper)
+279.136	279.806	Participant	um
+280.76	281.48	Participant	think about
+283.455	286.045	Participant	the negative things that could happen after
+287.962	291.852	Participant	you know if you don't control your temper like going to jail or
+292.993	294.963	Participant	you know losing everything you worked for
+295.934	296.374	Ellie	yeah_downer (yeah)
+297.71	300.76	Ellie	last_argument (when was the last time you argued with someone and what was it about)
+302.409	305.179	Participant	um the last time i argued with somebody was um
+308.069	309.379	Participant	one of my um
+310.372	312.252	Participant	close friends
+314.511	315.661	Ellie	how_know (how do you know them)
+317.367	319.462	Participant	um i seen him a couple of times
+321.707	323.247	Ellie	describe_felt (how did you feel in that moment)
+324.396	325.661	Participant	upset <sigh>
+327.218	327.728	Ellie	mhm (mhm)
+329.916	330.716	Participant	and upset
+332.602	333.062	Ellie	okay_confirm (okay)
+334.161	337.94	Ellie	situation_handled (tell me about a situation that you wish you had handled differently)
+338.95	339.31	Participant	<sniffle>
+341.525	342.385	Participant	um
+347.289	350.619	Participant	the uh vehicle i bought i should have bought something
+352.597	353.477	Participant	more affordable
+353.225	353.765	Ellie	like_what (like what)
+354.577	355.845	Participant	like a vehicle <veh> a car
+356.619	359.161	Participant	i should've bought um like um something more affordable
+359.859	360.839	Participant	like uh maybe
+361.834	361.984	Participant	uh
+362.778	364.278	Participant	something more economic
+365.46	366.4	Ellie	makes_sense (that makes sense)
+367.929	371.529	Ellie	hard_decisionB (tell me about the hardest decision you've ever had to make)
+373.356	375.556	Participant	um moving to los angeles
+377.214	378.234	Participant	west los angeles
+378.589	378.759	Participant	<clears throat>
+379.96	381.37	Ellie	hard_decision (how did you decide to do that)
+383.849	384.139	Participant	<sniffle>
+384.544	390.174	Participant	i basically found out that i had a uncle out here so i moved in with him
+390.794	393.363	Participant	and then um from there on then i moved on my own
+397.796	399.596	Ellie	living_situation (how do you like your living situation)
+400.208	400.668	Participant	it's good
+401.771	402.521	Participant	it's affordable
+404.324	404.964	Ellie	thats_good (that's good)
+406.372	409.071	Ellie	family_relationship (tell me about your relationship with your family)
+409.754	410.624	Participant	it's good right now
+412.313	414.013	Ellie	family_roleB (how close are you to your family)
+414.498	415.288	Participant	really close
+417.663	419.023	Ellie	good_hear (that's so good to hear)
+420.569	424.688	Ellie	memory_erase (tell me about an event or something that you wish you could erase from your memory)
+428.237	429.037	Participant	um
+440.758	442.098	Participant	i i don't know
+443.932	444.392	Ellie	okay_confirm (okay)
+446.931	449.027	Ellie	feelguilty (what's something you feel guilty about)
+452.142	452.862	Participant	um
+455.717	457.017	Participant	<sigh>
+457.647	458.207	Participant	um
+459.591	461.261	Participant	not being financially stable
+464.768	465.928	Ellie	tell_about_that (can you tell me about that)
+467.092	470.452	Participant	well ever since i moved to l_a it's um
+471.58	473.28	Participant	when i try to fit into a job
+474.562	480.192	Participant	something happens to that business they either lay people off or sell the business or
+481.142	481.732	Participant	or um
+483.287	483.667	Participant	you know
+484.084	486.314	Participant	they don't pay they cut the pay so
+486.963	487.713	Participant	it's been tough
+489.331	489.771	Ellie	yeah_downer (yeah)
+490.641	491.991	Ellie	been_hard (that sounds really hard)
+492.413	492.743	Participant	really
+494.661	496.871	Ellie	good_job (it can be tough to find a good job these days)
+499.565	501.895	Ellie	influence_positive (who's someone that's been a positive influence in your life)
+504.833	505.913	Participant	um
+506.796	507.926	Participant	nobody really
+511.062	511.522	Ellie	okay_confirm (okay)
+512.663	515.103	Ellie	easy_sleep (how easy is it for you to get a good night's sleep)
+517.046	518.586	Participant	um i have to workout
+519.576	523.796	Participant	and to be able to get my get my body tired for to go to sleep
+524.389	524.899	Ellie	mhm (mhm)
+526.083	527.863	Ellie	sleep_affects (what are you like when you don't sleep well)
+526.17	526.45	Participant	uh
+532.062	533.442	Participant	i'm uh i'm um
+534.916	535.466	Participant	tired
+535.892	536.852	Participant	falling asleep
+538.213	539.873	Participant	wherever i go if or
+540.638	541.958	Participant	if there's nothing going on
+543.482	543.952	Ellie	yeah3 (yeah)
+544.647	546.027	Ellie	feel_lately (how have you been feeling lately)
+548.5	548.87	Participant	um
+550.12	551.52	Participant	lately meaning today
+552.846	553.356	Ellie	mhm (mhm)
+555.363	556.093	Participant	um
+557.035	558.315	Participant	today uh really tired
+559.881	560.451	Ellie	why2 (why)
+561.057	562.437	Participant	'cause i went out last night
+563.869	564.599	Ellie	nice (nice)
+568.036	571.206	Ellie	behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+573.639	573.999	Participant	no
+575.762	577.802	Ellie	ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+578.292	578.792	Participant	what's that
+581.075	582.885	Ellie	depression_diagnosed (have you been diagnosed with depression)
+584.522	584.862	Participant	no
+587.585	590.132	Ellie	happy_lasttime (tell me about the last time you felt really happy)
+592.366	593.666	Participant	um
+595.503	597.633	Participant	last week last uh weekend
+600.071	601.161	Ellie	more (tell me more about that)
+602.078	605.288	Participant	i was just uh with a group of friends and um
+606.542	607.562	Participant	and having a good time
+609.842	610.252	Ellie	cool3 (cool)
+612.884	614.574	Ellie	BF_describe (how would your best friend describe you)
+616.008	619.618	Participant	um outgoing nice funny
+621.689	624.236	Participant	um good attitude personality character <charater>
+623.51	623.98	Ellie	uh_huh (uh huh)
+625.458	626.158	Participant	character i mean
+629.148	632.047	Ellie	self_change (what are some things you wish you could change about yourself)
+636.909	637.782	Participant	um
+640.469	641.189	Participant	i don't know
+644.102	649.405	Ellie	feelbadly (tell me about a time when someone made you feel really badly about yourself)
+670.371	672.731	Participant	i i i never had somebody do that
+674.887	675.347	Ellie	okay_confirm (okay)
+677.973	680.913	Ellie	Ellie17Dec2012_07 (what would you say are some of your best qualities)
+682.154	683.504	Participant	uh i'm consistent
+684.41	684.95	Participant	um
+686.479	689.149	Participant	when i start something i don't i don't give up
+690.094	691.424	Participant	<cough> and um
+692.439	696.089	Participant	i'm always open to new ideas and creative
+697.015	698.975	Participant	and um i like to
+699.995	700.825	Participant	go out and
+701.838	702.758	Participant	have a good time and
+705.388	706.168	Participant	and um
+709.481	714.191	Participant	take new routes and journeys and um also
+715.642	717.052	Participant	make <ma> make people feel good
+718.576	719.216	Ellie	thats_good (that's good)
+721.406	723.348	Ellie	ideal_weekendC (tell me how you spend your ideal weekend)
+724.898	729.561	Participant	sometimes um studying for the test and um
+730.725	732.975	Participant	and uh or go out or work out
+736.211	736.671	Ellie	okay_confirm (okay)
+737.912	741.162	Ellie	Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+745.281	747.991	Participant	um <clears throat> i went swimming
+751.438	752.158	Ellie	awesome (awesome)
+754.437	755.507	Ellie	regret (is there anything you regret)
+759.828	762.528	Participant	i i should've um traveled more
+765.607	766.047	Ellie	isee_downer (i see)
+767.466	770.416	Ellie	advice_back (what advice would you give to yourself ten or twenty years ago)
+775.339	779.549	Participant	i don't i don't know because i can't say that because um
+780.341	781.871	Participant	a lot of things that happened
+784.015	785.055	Participant	was not my fault
+788.199	789.529	Ellie	give_example (can you give me an example of that)
+793.051	793.851	Participant	uh
+796.937	799.853	Participant	like um the economy going bad
+800.985	801.995	Participant	and um
+804.429	805.999	Participant	you know things are really slow
+807.312	809.082	Participant	and i didn't know that
+811.278	815.436	Participant	you know certain businesses will go the way they were and um
+818.504	821.246	Participant	and um sometimes it takes a long time to
+822.101	823.731	Participant	when you change careers to
+825.37	828.28	Participant	to get on board and make it happen
+830.219	830.659	Ellie	yeah_downer (yeah)
+834.55	837.32	Ellie	Ellie17Dec2012_09 (what are some things that usually put you in a good mood)
+839.155	840.415	Participant	uh working out
+841.31	841.873	Participant	eating
+843.362	846.848	Participant	um watching t_v talking with my friends
+848.31	849.82	Participant	and hanging out with friends
+848.352	848.862	Ellie	mhm (mhm)
+852.426	854.726	Ellie	Ellie17Dec2012_08 (what are you most proud of in your life)
+857.052	857.922	Participant	uh
+862.621	864.161	Participant	that i'm responsible
+866.751	867.111	Participant	for all the
+866.859	867.499	Ellie	thats_good (that's good)
+867.461	867.731	Participant	yeah
+870.581	873.021	Ellie	asked_everything (okay i think i have asked everything i need to)
+873.757	875.197	Ellie	appreciate_open (thanks for sharing your thoughts with me)
+876.679	877.289	Ellie	bye (goodbye)

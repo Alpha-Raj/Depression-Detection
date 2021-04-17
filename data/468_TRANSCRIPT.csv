@@ -1,0 +1,256 @@
+start_time	stop_time	speaker	value
+10.38	11.21	Participant	<synch>
+25.465	47.005	Ellie	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+48.09	49.07	Participant	yes i'm okay with this
+49.864	50.324	Ellie	okay_confirm (okay)
+51.453	53.723	Ellie	how_doingV (so how are you doing today)
+54.72	57.24	Participant	i'm pretty good feeling a little tired but uh
+58.04	59.35	Participant	feeling pretty good for the most part
+60.13	60.77	Ellie	thats_good (that's good)
+61.479	62.799	Ellie	where_originally (where are you from originally)
+64.05	65.31	Participant	um redondo beach
+66.311	66.901	Ellie	really (really)
+68.725	69.035	Participant	yep
+69.161	71.271	Ellie	like_about_LA (what are some things you really like about l_a)
+72.7	75.63	Participant	i like the beach i like the mountains i
+76.35	79.43	Participant	love how you could go surfing in the morning go snowboarding in the day
+80.47	81.26	Participant	um
+82.025	85.785	Participant	i like to go hiking up in these mountains santa monica mountains to be exact
+84.68	85.09	Ellie	cool3 (cool)
+87.318	89.668	Ellie	dont_like_LA (what are some things you don't really like about l_a)
+90.58	91.58	Participant	i don't like the traffic
+91.96	93.64	Participant	i don't like the congestion of people here
+94.31	96.72	Participant	and i don't like
+98.815	101.805	Participant	the price of <o> the cost of living in specific areas
+103.011	104.041	Ellie	see_mean (i see what you mean)
+105.641	111.822	Ellie	travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+112.15	114.37	Participant	uh i've been trying to actually um
+115.43	117.35	Participant	last year was the summer of
+117.93	121.09	Participant	really road tripping and getting out there with my girlfriend um
+122.25	127.66	Participant	we're looking to go to costa rica and hopefully to south america this summer and then maybe even doing a road trip
+128.22	130.42	Participant	down the south see some of the southern states
+131.06	134.78	Participant	but uh i've been to canada i've been to mexico and ecuador and
+135.81	137.51	Participant	been to various states here and there
+138.08	138.86	Participant	trying to get out there
+140.071	141.591	Ellie	travel_changed (what do you enjoy about traveling)
+142.135	146.705	Participant	i love meeting new people i love experiencing new things trying different <diffing>
+147.24	150.49	Participant	different foods that are native to that local area
+151.19	152.42	Participant	and
+153.39	156.98	Participant	it's just part of the journey i just i love exploring this you know
+157.78	159.12	Participant	this planet we call earth
+160.121	160.591	Ellie	mm (mm)
+161.392	163.072	Ellie	travel_trips (i'd love to hear about one of your trips)
+165.105	169.775	Participant	um just recently we went to seattle and canada with a couple friends and uh
+170.875	173.015	Participant	it was gorgeous we uh flew into seattle
+173.74	177.77	Participant	and we saw the city for the first two three days and then rented a car and
+178.2	182.84	Participant	headed over to vancouver canada and saw british columbia and boy was it gorgeous just
+183.7	187.13	Participant	very lush beautiful trees the uh
+188.25	194.71	Participant	the climate was nice the ocean was right there it was people were great it was just a fun trip all around
+195.407	196.137	Ellie	nice (nice)
+196.02	196.61	Participant	yeah
+196.84	199.2	Ellie	memorableB (what's one of your most memorable experiences)
+199.9	205.57	Participant	<deep breath> <sigh> one of my most memorable <sigh> memorable experiences
+206.48	207.87	Participant	was probably the uh
+209.41	211.33	Participant	the trip we took to colorado last summer
+212.04	214.16	Participant	and uh me and my girlfriend flew into denver
+214.73	219.2	Participant	and we didn't really have a plan we knew we knew of a couple people who were living there and um
+220.155	224.475	Participant	just the day before we had to uh contacted them and telling 'em we're coming in the area
+225.13	232.26	Participant	and they were just showed great hospitality they picked us up at the airport let us crash at their place for a couple days we
+232.97	236.21	Participant	even let us use their car to explore the state and go to wyoming and
+236.86	237.62	Participant	see the
+238.22	241.45	Participant	the neighbors to the north it was just a great trip great people and
+242.13	247.72	Participant	it was just everything worked out very well just every day was there was something new and fun to do
+248.371	249.731	Ellie	good_hear (that's so good to hear)
+249.73	250.39	Participant	yeah
+251.593	252.733	Ellie	study (what did you study at school)
+254.05	255.77	Participant	i uh i studied business management
+256.29	258.64	Participant	and uh economics right now
+259.424	260.854	Ellie	change_directions (what made you decide to do that)
+261.17	263.03	Participant	um i've always wanted to
+263.69	266.3	Participant	own my own business and i figured management be a
+267.36	272.32	Participant	a good uh foundation to build on and uh learn more about so i decided to go into management just to
+273.05	277.17	Participant	see the various aspects of what it takes to really manage your own business and um
+277.64	279.29	Participant	and then economics is just to
+280.18	285.15	Participant	just for long term investments i really wanted to start earning some stocks and e_t_fs and mutual funds and
+285.67	292.35	Participant	start buidling my portfolio up so i figured economics would be a great way for a long term investment financially so that's why i did my economics
+293.226	294.226	Ellie	happy_didthat (are you happy you did that)
+294.34	295.95	Participant	yeah i'm really stoked it was
+297	299.37	Participant	one of the best decisions probably of my my life
+300.02	300.92	Ellie	thats_great (that's great)
+300.91	301.29	Participant	yeah
+303.188	307.588	Ellie	shyoutgoing (do you consider yourself more shy or outgoing)
+307.08	308.65	Participant	i consider myself more outgoing i'm
+309.4	312.37	Participant	i'm pretty friendly i don't mind to open up to people and stuff
+310.029	310.599	Ellie	why2 (why)
+314.135	326.201	Ellie	relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+326.26	328.73	Participant	<sigh> i like to be outside like to go hiking
+329.44	332.05	Participant	i like to go um working out at the gym but
+332.54	336.11	Participant	i mostly like to be outdoors i i love nature and just to be outside just
+337.245	338.295	Participant	just puts me at ease
+340.189	340.649	Ellie	okay_confirm (okay)
+342.186	344.246	Ellie	control_temper (how are you at controlling your temper)
+345.93	350.56	Participant	from pretty good for the most part i'm pretty mellow chill guy and when i do get angry here and there
+351.2	352.05	Participant	i uh
+353.35	360.06	Participant	it just lasts for like a couple minutes and before i know it i just it just blows over i don't tend to hold on to things or stay
+360.64	362.79	Participant	angry and hold grudges just 'cause
+363.6	365.61	Participant	there's no need to life's too short for all that
+366.785	369.835	Ellie	last_argument (when was the last time you argued with someone and what was it about)
+370.07	370.89	Participant	um
+375.6	377.67	Participant	see i can't even remember the last time i argued with anybody
+378.72	379.63	Participant	i have no idea
+380.382	381.182	Ellie	wild_laughter3 ((laughter))
+382.556	383.016	Ellie	okay_confirm (okay)
+384.274	388.055	Ellie	situation_handled (tell me about a situation that you wish you had handled differently)
+391.29	393.2	Participant	probably when my uh
+394.26	396.14	Participant	my brother and my girlfriend got in a little
+396.665	397.655	Participant	little argument
+398.53	402.78	Participant	uh like two birthdays ago and it's been awkward kinda ever since um
+404.36	405.52	Participant	i wish i would've just handled it
+406	414.74	Participant	right then and there rather than it letting it just stretch out as long as it has been it's just awkward for both parties i wish i just would've communicated with both of them and
+415.27	420.98	Participant	told 'em to you know set their differences aside and let's just communicate and try to see we come up with a solution
+422.04	422.86	Participant	but now it's just
+423.74	424.35	Participant	awkward
+425.561	426.401	Ellie	that_sucks (that sucks)
+426.47	427.2	Participant	yeah it does
+429.056	432.656	Ellie	hard_decisionB (tell me about the hardest decision you've ever had to make)
+434.325	436.595	Participant	the hardest decision i've ever had to make
+440.77	441.91	Participant	man that's a toughy
+445.54	446.95	Participant	i don't think i've had too many
+447.53	450.64	Participant	tough decisions to really say the hardest decision i've ever had to make um
+451.47	452.27	Participant	maybe
+454.06	455.82	Participant	not moving to colorado for my undergrad
+456.33	457.67	Participant	two three years ago
+458.55	460.6	Participant	was a little tough just 'cause i kinda think what if
+461.55	464.68	Participant	but other than that nothing has really been too tough in my life that
+465.705	467.065	Participant	was really that hard of a decision
+467.69	468.15	Ellie	okay_confirm (okay)
+470.345	472.36	Ellie	feelguilty (what's something you feel guilty about)
+478.32	479.93	Participant	i don't really feel guilty about anything
+480.56	482.69	Participant	pretty good person i think and for the most part
+483.495	484.425	Participant	i couldn't think of anything
+486.574	490.723	Ellie	memory_erase (tell me about an event or something that you wish you could erase from your memory)
+492.61	495.55	Participant	something i could wish i could erase from my memory um
+501.83	503.72	Participant	nothing really to be honest i
+504.85	507.94	Participant	i love all my memories they're usually positive for the most part
+508.55	509.44	Participant	i know that's kinda
+510.71	513.71	Participant	weird for somebody to say but i've lived a pretty good life and
+514.84	515.45	Participant	i'm happy
+516.445	517.345	Ellie	thats_great (that's great)
+517.51	517.92	Participant	yeah
+519.059	521.754	Ellie	family_relationship (tell me about your relationship with your family)
+523.37	527.77	Participant	uh it's cool um i'm pretty independent for the most part so when i do see 'em here and there it's
+528.33	533.74	Participant	it we go through long periods of times with no contact maybe a couple weeks sometimes even a month
+534.67	536.05	Participant	but uh when i see 'em it's
+536.755	539.795	Participant	it's good you know i like to say hi and show 'em i love 'em still and
+540.53	544.59	Participant	it's not that i don't mean to like not contact 'em they could always contact me but uh
+545.74	548.23	Participant	it's good for the most part i guess as a young adult
+549.67	549.96	Participant	mm
+550.138	550.648	Ellie	mhm (mhm)
+551.272	553.602	Ellie	influence_positive (who's someone that's been a positive influence in your life)
+555.74	557.33	Participant	my girlfriend's family uh
+558.32	562.32	Participant	they've been very positive in my life uh if it wasn't for them i think i'd be in a different direction
+563.48	566.72	Participant	just 'cause in high school i didn't really care about higher education i didn't care about
+567.9	569.25	Participant	really thinking long term
+570.26	572.43	Participant	and uh just seeing them <th> them and
+573.41	575.14	Participant	what their family does and
+575.46	583.05	Participant	how they think differently like with your higher education and how to get somewhere in life and the if you do these things this is what it could lead to
+583.81	585.89	Participant	and they've been very successful they own their own uh
+586.69	588.02	Participant	accounting practice and
+589.34	592.41	Participant	seeing that influenced me to achieve higher in life
+593.54	594.9	Ellie	good_hear (that's so good to hear)
+594.85	595.53	Participant	yeah
+596.394	598.834	Ellie	easy_sleep (how easy is it for you to get a good night's sleep)
+600.71	602.9	Participant	it's pretty easy for the most part i just close my eyes and
+604	605.11	Participant	wake up in the morning
+606.083	607.863	Ellie	sleep_affects (what are you like when you don't sleep well)
+610.16	611.46	Participant	i'm tired sometimes i'm
+612.855	614.975	Participant	could sense that i'm a little drained and uh
+616.18	618.3	Participant	maybe get a little groggy here and there
+619.438	619.908	Ellie	uh_huh (uh huh)
+620.66	621.22	Participant	and that's it
+621.963	623.343	Ellie	feel_lately (how have you been feeling lately)
+625.7	627.57	Participant	feeling pretty good for the most part a little
+628.09	630.42	Participant	stressed out just 'cause finals are uh next week
+631	636.47	Participant	and uh i really really wanna do well and just you know close out this last semester and i graduate in two weeks
+637.02	637.9	Participant	and um
+638.78	643.21	Participant	for the most part that's that's the only thing i'm really nervous about but for the most part i'm really excited i'm looking forward to
+643.73	647.2	Participant	going to maui for a week after graduation i'm fired up i'm fired up to
+647.61	650.45	Participant	see what the future holds where we gonna live <l> me and my girlfriend gonna live and
+650.98	654.59	Participant	what other trips are planned for the summer i'm just i'm excited to be done with school for a little while
+655.349	656.069	Ellie	awesome (awesome)
+655.89	656.52	Participant	yeah
+658.624	660.664	Ellie	ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+661.14	663.25	Participant	i have never been diagnosed with p_t_s_d
+663.433	665.243	Ellie	depression_diagnosed (have you been diagnosed with depression)
+665.775	668.205	Participant	i've never been diagnosed with depression <sigh>
+668.134	670.681	Ellie	happy_lasttime (tell me about the last time you felt really happy)
+672.53	678.9	Participant	the last time i felt really happy was probably seeing my girlfriend graduate a couple days ago she had uh just graduated from nursing school on monday
+677.215	677.895	Ellie	aw (aw)
+679.47	685.32	Participant	and uh to see her walk across stage and stuff just 'cause we've been together for six years and seeing her go through
+685.94	688.12	Participant	the nursing program for five and
+688.43	688.9	Participant	it's just
+689.3	694.67	Participant	seeing all the ups and downs it's really good to see somebody just strive through and achieve what they want to achieve and just made me really proud of her
+696.628	697.528	Ellie	thats_great (that's great)
+697.7	698.1	Participant	yeah
+699.198	700.888	Ellie	BF_describe (how would your best friend describe you)
+703.55	705.43	Participant	probably outgoing friendly
+706.3	707.83	Participant	positive vibes all around
+708.63	709.93	Participant	adventurous
+710.92	712.03	Participant	loves sports
+712.68	714.9	Participant	team player knows how to be a leader here and there
+715.58	716.05	Ellie	uh_huh (uh huh)
+716.31	717.53	Participant	and uh
+718.13	720.02	Participant	gets a little outspoken sometimes
+722.024	723.504	Ellie	landed_trouble (has that gotten you in trouble)
+728.015	730.405	Participant	no not really for the most part
+731.63	732.47	Participant	no not really
+733.296	733.756	Ellie	okay_confirm (okay)
+735.951	738.744	Ellie	self_change (what are some things you wish you could change about yourself)
+741.4	744.82	Participant	just be a little more motivated i used to be so motivated and right now i'm just
+745.64	749.55	Participant	maybe 'cause i'm just done with school and i'm over it that i just don't feel as motivated
+750.13	752.78	Participant	but i just i wanna be more motivated and determined
+753.76	755.3	Participant	right now and that's not
+756.49	758.01	Participant	i'm not going that way right now so
+758.073	759.023	Ellie	understand (i understand)
+759.19	759.49	Participant	mhm
+760.232	765.545	Ellie	feelbadly (tell me about a time when someone made you feel really badly about yourself)
+760.27	760.85	Participant	no biggie
+766.75	767.53	Participant	<sigh>
+774.42	776.17	Participant	oh man i couldn't
+777.86	779.08	Participant	can't really think of a time
+780.702	781.162	Ellie	okay_confirm (okay)
+782.839	786.089	Ellie	Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+789.87	791.22	Participant	i went caving two weeks ago
+791.76	793.01	Participant	that was a lot of fun
+793.73	797.38	Participant	uh we went up to sequoia national park and uh i went caving with a
+797.97	807.62	Participant	for an r_t_m class it's like this uh recreational tourism management class and caving was an elective and our professor was like a world renowned cave specialist and he took us to these various caves in uh
+808.015	808.925	Participant	sequoia and just
+809.57	819.01	Participant	me and these strangers or my classmates and becoming really good friends at the end was a lot of fun and rappelling down into caves climbing back up going through different rooms and chutes
+819.58	821.03	Participant	it was a lot of fun
+822.49	823.24	Participant	that was
+822.813	823.713	Ellie	thats_great (that's great)
+823.62	824.04	Participant	yeah
+826.011	828.961	Ellie	advice_back (what advice would you give to yourself ten or twenty years ago)
+829.57	833.59	Participant	ten or twenty years ago i'd probably say just stay more focused on school
+834.25	836.1	Participant	a little less on the social aspects
+836.82	837.59	Participant	and uh
+838.055	841.455	Participant	kinda stick with one sport just to see how far that could get ya
+842.945	844.015	Ellie	regret (is there anything you regret)
+845.28	846.46	Participant	um <sigh>
+847.44	854.27	Participant	sometimes not playing hockey through uh through middle school and hockey sometimes <someti> i mean through middle school and high school sometimes and um
+857.71	859.01	Participant	and that's pretty much it now
+860.196	860.656	Ellie	okay_confirm (okay)
+862.946	865.246	Ellie	Ellie17Dec2012_08 (what are you most proud of in your life)
+867.1	872	Participant	i'm proud <sigh> that uh i'm really proud that i'm graduating getting my bachelor's and i'm
+872.64	877.22	Participant	looking to get a full time job i work at a law firm now so i have something going for me  um
+878.56	885.99	Participant	i'm really proud to be a motivated and determined person long term wise <w> long term thinking wise i'm a well-rounded person
+887.77	893.47	Participant	and i really wanna explore the world so i'm kinda proud that i opened my eyes to that and now i have different perspectives and
+893.96	899.24	Participant	really have a open mind to people and rather than judging 'em you know it's liberty why not let 'em do what they want
+899.85	900.73	Participant	and uh
+902.76	907.09	Participant	i'm really proud to just be finally getting my bachelor's and hopefully going for my m_b_a in a couple years
+907.624	908.134	Ellie	mhm (mhm)
+909.108	911.548	Ellie	asked_everything (okay i think i have asked everything i need to)
+912.13	913.57	Ellie	appreciate_open (thanks for sharing your thoughts with me)
+914.34	915	Participant	for sure
+915.38	915.99	Ellie	bye (goodbye)
+916.15	916.52	Participant	bye

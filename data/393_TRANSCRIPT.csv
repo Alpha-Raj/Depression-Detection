@@ -1,0 +1,163 @@
+start_time	stop_time	speaker	value
+12.18	13.16	Participant	<sync>
+33.989	55.529	Ellie	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+55.82	56.47	Participant	yes
+57.011	57.471	Ellie	okay_confirm (okay)
+59.17	61.44	Ellie	how_doingV (so how are you doing today)
+61.96	62.72	Participant	i'm good
+63.75	64.39	Ellie	thats_good (that's good)
+65.126	66.446	Ellie	where_originally (where are you from originally)
+67.43	69.58	Participant	i'm originally from los angeles california
+70.33	70.92	Ellie	really (really)
+72.38	74.49	Ellie	like_about_LA (what are some things you really like about l_a)
+75.06	79.05	Participant	um i like the weather i like uh numerous things
+79.8	80.89	Participant	uh the women
+82.24	83.18	Participant	stuff like that
+82.741	83.251	Ellie	mhm (mhm)
+84.581	86.931	Ellie	dont_like_LA (what are some things you don't really like about l_a)
+87.26	90.49	Participant	traffic traffic is ridiculous it like it's out of control like
+91.48	92.57	Participant	the way people drive here
+93.559	94.029	Ellie	yeah3 (yeah)
+94.788	95.818	Ellie	see_mean (i see what you mean)
+97.633	98.773	Ellie	study (what did you study at school)
+100.05	101.8	Participant	uh business economics
+103.212	103.622	Ellie	cool3 (cool)
+104.838	106.248	Ellie	hard_decision (how did you decide to do that)
+107.23	110.74	Participant	uh i just wanted to be a business owner like i wanted to work for myself
+111.42	113	Participant	so that's the reason why i did that
+114.222	115.482	Ellie	still_working_on_X (are you still working in that)
+116.16	117.76	Participant	yes i am currently
+119.014	120.214	Ellie	dream_job (what's your dream job)
+120.77	123.83	Participant	<tisk> uh to be a c_e_o of a of a company
+125.233	126.173	Ellie	difficult (how hard is that)
+126.98	130.24	Participant	uh it shouldn't be that hard but it's gonna be challenging <challen> it's it's challenging
+130.79	131.57	Participant	don't get me wrong
+136.772	141.242	Ellie	shyoutgoing (do you consider yourself more shy or outgoing)
+140.67	145.09	Participant	i mean sometimes it varies i can be shy at times but then i'm i'm mostly outgoing
+146.779	148.109	Ellie	give_example (can you give me an example of that)
+148.95	151.6	Participant	sure i mean when it comes to certain things like let's say
+152.18	156.77	Participant	i go to a a club or a party and i see a girl i wanna talk to i'll go talk to her
+157.3	162.6	Participant	but when it comes to being around a lot of people like sometimes i do get a little shy and and uh reserved
+164.545	176.656	Ellie	relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+176.82	178.04	Participant	uh i work out
+179.42	180.53	Participant	hang out with my friends
+182.186	182.656	Ellie	uh_huh (uh huh)
+183.66	184.32	Participant	that's what i do
+185.507	187.567	Ellie	control_temper (how are you at controlling your temper)
+188.07	190.78	Participant	i'm pretty good at it i don't really let things get to me
+191.952	192.592	Ellie	thats_good (that's good)
+193.537	196.587	Ellie	last_argument (when was the last time you argued with someone and what was it about)
+197.35	199.76	Participant	actually it's been a while i haven't argued with anybody i mean
+200.28	201.67	Participant	i had like a minor little
+203.06	206.79	Participant	little argument about something but uh that was a few weeks ago and
+207.27	209.77	Participant	it wasn't something that was serious it's just uh
+211.09	213.37	Participant	some things i had to clarify with uh someone
+214.607	215.147	Ellie	like_what (like what)
+215.7	220.29	Participant	uh it was it was about a girl and and i asked her some questions about some stuff uh basically
+220.85	222.78	Participant	why she was trying to uh
+223	225.9	Participant	get back with her ex like that doesn't make any sense to me
+226.22	226.69	Ellie	uh_oh (uh oh)
+231.283	235.241	Ellie	situation_handled (tell me about a situation that you wish you had handled differently)
+236.56	237.97	Participant	um
+239.14	243.09	Participant	<lip smacking> i would say my relationship with my brother i wish we wouldn't have uh
+243.31	245.43	Participant	fought a lot we i wish we could've worked that out
+245.82	247.06	Participant	without fighting each other
+249.522	249.982	Ellie	okay_confirm (okay)
+251.623	254.339	Ellie	family_relationship (tell me about your relationship with your family)
+255.33	260.48	Participant	my relationship with my family is pretty cool like my mom i get along with my mom <sniff>
+261.73	265.03	Participant	and i get along with my sister so it's pretty it's pretty uh
+266.08	266.29	Participant	cool
+267.154	268.054	Ellie	thats_great (that's great)
+269.758	271.458	Ellie	family_roleB (how close are you to your family)
+272.36	274.5	Participant	i'm pretty i'm very close to my family
+276.643	278.973	Ellie	influence_positive (who's someone that's been a positive influence in your life)
+279.7	284.87	Participant	um i would have to say uh some friends that i've met recently i met uh some people through my church
+286.712	287.872	Ellie	tell_about_that (can you tell me about that)
+289.25	295.11	Participant	scrubbed_entry
+296.31	298.06	Participant	he's like a mentor to me
+300.849	301.309	Ellie	okay_confirm (okay)
+303.349	307.831	Ellie	memory_erase (tell me about an event or something that you wish you could erase from your memory)
+309.22	309.94	Participant	um
+312.47	315.25	Participant	i don't know i i don't think i have anything like that in my memory
+317.028	317.758	Ellie	hmmB (hmm)
+317.34	318.82	Participant	that i would that i wanna erase
+319.836	323.501	Ellie	hard_decisionB (tell me about the hardest decision you've ever had to make)
+324.26	325.2	Participant	um
+329.84	334.78	Participant	i would have to say uh it would have to have been uh  whether or not to uh
+337.31	339.59	Participant	<sigh> let's see um <sigh>
+344.1	344.81	Participant	as far as like
+345.65	350.55	Participant	my career path i would say uh what career i'm gonna am i gonna be in and stuff like that
+351.472	352.432	Ellie	tell_me_about (tell me about that)
+353.92	354.48	Participant	i mean
+356.01	357.92	Participant	high school for me went pretty
+358.41	361.15	Participant	it went okay and i could've done better
+362	363.74	Participant	and um basically
+364.55	365.78	Participant	ended up uh
+368.3	370.54	Participant	not really living <li> uh living up to my potential
+372.469	373.039	Ellie	why2 (why)
+374.48	376.53	Participant	i i don't know i mean
+377.54	378.31	Participant	i really don't know
+379.848	380.308	Ellie	okay_confirm (okay)
+381.523	383.963	Ellie	easy_sleep (how easy is it for you to get a good night's sleep)
+384.4	389.31	Participant	it's pretty easy it's not a problem <laughter> i could just knock out when i go home at night time
+390.307	390.947	Ellie	thats_good (that's good)
+391.999	393.779	Ellie	sleep_affects (what are you like when you don't sleep well)
+395.59	397.44	Participant	tired uh
+398.7	400.59	Participant	just mainly uh tired
+401.452	401.922	Ellie	uh_huh (uh huh)
+401.93	402.44	Participant	i would say
+403.424	404.804	Ellie	feel_lately (how have you been feeling lately)
+405.97	408.42	Participant	i've been okay <o> i've been fine lately
+412.2	412.84	Participant	i have
+413.377	416.547	Ellie	behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+417.46	417.88	Participant	no
+420.576	422.616	Ellie	ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+423.28	424.05	Participant	no i have not
+424.996	426.806	Ellie	depression_diagnosed (have you been diagnosed with depression)
+427.4	428.17	Participant	no i have not
+429.218	432.929	Ellie	happy_lasttime (tell me about the last time you felt really happy)
+437.12	438.68	Participant	i would say
+440.26	442.1	Participant	it would have to have been um
+445.31	447.79	Participant	when i when i got the uh car that i have right now
+451.24	453.2	Participant	i have a nice car right now and it's pretty fast
+456.435	457.155	Ellie	awesome (awesome)
+459.467	461.157	Ellie	BF_describe (how would your best friend describe you)
+462.51	463.97	Participant	i would say um
+468.65	472.24	Participant	he would describe me as somebody that's not a quitter
+473.18	474.72	Participant	somebody that perseveres
+479.224	480.294	Ellie	regret (is there anything you regret)
+481.24	481.56	Participant	no
+482.993	485.943	Ellie	advice_back (what advice would you give to yourself ten or twenty years ago)
+487.57	491.73	Participant	go for whatever i want like whatever <wh> whatever i want out of life just go for it
+493.08	493.86	Participant	don't hesitate
+496.736	499.713	Ellie	self_change (what are some things you wish you could change about yourself)
+499.95	500.48	Participant	um
+501	503.06	Participant	i would have to say currently my weight like i
+503.72	506.64	Participant	i've put on some pounds and i'm working on losing those pounds
+508.058	513.602	Ellie	feelbadly (tell me about a time when someone made you feel really badly about yourself)
+515.29	517.97	Participant	maybe when i was little in school probably
+520.657	521.427	Ellie	Ellie17Dec2012_02 (uh huh)
+525.168	526.838	Ellie	tell_me_moreV2 (can you tell me more about that)
+528.19	531.56	Participant	uh pretty much uh i got bullied
+532.21	533.88	Participant	so that's pretty much what happened
+535.247	535.987	Ellie	im_sorry (i'm sorry)
+539.787	542.727	Ellie	Ellie17Dec2012_07 (what would you say are some of your best qualities)
+543.69	544.82	Participant	um
+545.17	547.26	Participant	i'm intelligent i'm
+548.69	549.71	Participant	a hard worker
+550.32	550.93	Participant	um
+553.55	554.66	Participant	i'm a good person
+556.239	556.699	Ellie	okay_confirm (okay)
+558.264	561.514	Ellie	Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+562.97	563.9	Participant	um
+564.84	566.78	Participant	i would have to say uh
+568.57	569.53	Participant	having like
+570.46	572.49	Participant	uh get togethers with uh
+576.9	578.08	Participant	with my friends
+580.45	581.81	Participant	and um
+583.49	586.57	Participant	we just hang out with each other and and talk about stuff
+587.19	589.47	Participant	that's going on in our lives and stuff like that
+590.188	590.918	Ellie	nice (nice)
+591.713	594.153	Ellie	asked_everything (okay i think i have asked everything i need to)
+594.656	596.096	Ellie	appreciate_open (thanks for sharing your thoughts with me)
+597.865	598.475	Ellie	bye (goodbye)

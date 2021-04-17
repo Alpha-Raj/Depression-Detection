@@ -1,0 +1,126 @@
+start_time	stop_time	speaker	value
+10	11.02	Participant	<sync>
+26.012	47.552	Ellie	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+48.24	48.96	Participant	yes
+49.267	49.727	Ellie	okay_confirm (okay)
+51.497	53.767	Ellie	how_doingV (so how are you doing today)
+55.33	56.37	Participant	good how are you
+57.342	58.852	Ellie	great_thanks (i'm great thanks)
+60.082	61.402	Ellie	where_originally (where are you from originally)
+63.47	64.38	Participant	los angeles
+64.858	65.448	Ellie	really (really)
+67.335	69.445	Ellie	like_about_LA (what are some things you really like about l_a)
+72.11	73.04	Participant	uh weather
+74.01	74.82	Participant	entertainment
+76.886	79.236	Ellie	dont_like_LA (what are some things you don't really like about l_a)
+81.05	81.74	Participant	traffic
+84.764	90.955	Ellie	travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+91.63	92.18	Participant	no
+93.376	93.946	Ellie	why2 (why)
+96.1	97.27	Participant	too <t> too many people
+99.858	100.888	Ellie	see_mean (i see what you mean)
+102.133	103.273	Ellie	study (what did you study at school)
+105.55	106.16	Participant	business
+108.015	109.425	Ellie	hard_decision (how did you decide to do that)
+112.89	114.99	Participant	uh just fun thing to do
+116.179	117.439	Ellie	still_working_on_X (are you still working in that)
+118.13	118.55	Participant	yes
+120.418	121.578	Ellie	tell_about_that (can you tell me about that)
+123.81	125.22	Participant	nothing much to talk about
+126.636	127.836	Ellie	dream_job (what's your dream job)
+130.83	132.5	Participant	hm maybe talking to you
+133.922	134.722	Ellie	wild_laughter3 ((laughter))
+137.594	140.296	Ellie	family_relationship (tell me about your relationship with your family)
+141.87	143.92	Participant	um pretty good environment
+145.751	146.391	Ellie	thats_good (that's good)
+147.411	149.111	Ellie	family_roleB (how close are you to your family)
+150.45	151.32	Participant	pretty good
+152.776	153.236	Ellie	okay_confirm (okay)
+155.46	159.893	Ellie	shyoutgoing (do you consider yourself more shy or outgoing)
+160.24	161.08	Participant	the middle
+162.482	174.561	Ellie	relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)
+176.52	177.04	Participant	sleep
+179.584	181.644	Ellie	control_temper (how are you at controlling your temper)
+186.43	187.2	Participant	i don't know
+188.941	191.991	Ellie	last_argument (when was the last time you argued with someone and what was it about)
+194.7	196.05	Participant	don't remember
+198.767	199.497	Ellie	hmmB (hmm)
+201.806	203.843	Ellie	feelguilty (what's something you feel guilty about)
+205.66	206.95	Participant	no nothing really
+209.394	213.508	Ellie	memory_erase (tell me about an event or something that you wish you could erase from your memory)
+216.91	219.13	Participant	um i don't know i can't remember
+221.782	223.932	Ellie	mad_makeyou (what are some things that make you really mad)
+226.38	227.74	Participant	um bad people
+229.681	231.011	Ellie	give_example (can you give me an example of that)
+232.49	234.55	Participant	you know just bad people doing back things
+236.087	236.627	Ellie	like_what (like what)
+238.47	240.05	Participant	uh car accidents
+242.638	243.098	Ellie	okay_confirm (okay)
+244.956	248.633	Ellie	hard_decisionB (tell me about the hardest decision you've ever had to make)
+251.87	254.08	Participant	mm don't don't know any of them
+255.868	259.657	Ellie	situation_handled (tell me about a situation that you wish you had handled differently)
+262.82	263.89	Participant	don't really know any
+265.445	265.915	Ellie	mm (mm)
+267.053	269.383	Ellie	influence_positive (who's someone that's been a positive influence in your life)
+271.85	272.86	Participant	uh nobody
+276.183	278.223	Ellie	ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+279.57	280.12	Participant	no
+280.728	282.538	Ellie	depression_diagnosed (have you been diagnosed with depression)
+282.89	283.49	Participant	no
+283.604	286.044	Ellie	easy_sleep (how easy is it for you to get a good night's sleep)
+287.62	288.46	Participant	somewhat okay
+289.661	291.441	Ellie	sleep_affects (what are you like when you don't sleep well)
+293.81	295.79	Participant	just waking up thinking
+297.155	298.535	Ellie	trigger (are they triggered by something)
+302.86	303.93	Participant	no i i don't know
+306.402	309.572	Ellie	behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+310.07	310.47	Participant	no
+311.52	312.9	Ellie	feel_lately (how have you been feeling lately)
+315.89	316.63	Participant	i don't know
+317.826	321.565	Ellie	happy_lasttime (tell me about the last time you felt really happy)
+324.37	326.1	Participant	hm don't don't remember
+328.132	331.382	Ellie	Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+335.32	337.55	Participant	i i don't know talking to you
+338.404	338.994	Ellie	really (really)
+340.808	341.378	Ellie	why2 (why)
+344.03	345.47	Participant	first time i've done this before
+347.542	347.952	Ellie	cool3 (cool)
+350.137	352.341	Ellie	ideal_weekendC (tell me how you spend your ideal weekend)
+357.44	358.47	Participant	i have no idea
+360.01	360.55	Participant	sleep
+362.404	362.864	Ellie	okay_confirm (okay)
+365.265	368.144	Ellie	self_change (what are some things you wish you could change about yourself)
+370.93	371.73	Participant	not too much
+374.448	374.988	Ellie	like_what (like what)
+377.14	377.72	Participant	nothing
+379.826	385.125	Ellie	feelbadly (tell me about a time when someone made you feel really badly about yourself)
+388.41	389.97	Participant	don't have any experience
+393.825	395.515	Ellie	BF_describe (how would your best friend describe you)
+398.37	400.53	Participant	um i don't know not sure
+403.33	404.34	Ellie	um (um)
+405.166	408.106	Ellie	Ellie17Dec2012_07 (what would you say are some of your best qualities)
+410.17	413.04	Participant	um just be a nice person
+414.721	415.491	Ellie	Ellie17Dec2012_02 (uh huh)
+419.568	421.868	Ellie	Ellie17Dec2012_08 (what are you most proud of in your life)
+423.89	424.84	Participant	not sure
+428.083	429.283	Ellie	mind (whatever comes to your mind)
+433	433.89	Participant	nothing much
+435.383	436.453	Ellie	regret (is there anything you regret)
+437.65	438.18	Participant	no
+439.882	442.832	Ellie	advice_back (what advice would you give to yourself ten or twenty years ago)
+445.49	446.32	Participant	i don't know
+448.825	451.185	Ellie	memorableB (what's one of your most memorable experiences)
+453.46	454.27	Participant	i don't know
+458.181	458.631	Ellie	hmm_downer (hmm)
+460.809	462.469	Ellie	do_fun (what are some things you like to do for fun)
+465.06	465.79	Participant	i don't know
+467.72	468.53	Participant	play sports
+471.281	471.821	Ellie	like_what (like what)
+474.11	474.88	Participant	basketball
+476.518	478.058	Ellie	bouts_symptoms (when was the last time that happened)
+479.28	480.21	Participant	mm last month
+481.608	482.328	Ellie	awesome (awesome)
+486.197	488.637	Ellie	asked_everything (okay i think i have asked everything i need to)
+489.482	490.922	Ellie	appreciate_open (thanks for sharing your thoughts with me)
+492.759	493.369	Ellie	bye (goodbye)
+498.19	498.8	Participant	goodbye

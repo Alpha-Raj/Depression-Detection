@@ -1,0 +1,351 @@
+start_time	stop_time	speaker	value
+12.42	13.29	Participant	<synch>
+27.85	49.39	Ellie	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+49.47	49.99	Participant	yes
+51.212	51.672	Ellie	okay_confirm (okay)
+52.809	55.079	Ellie	how_doingV (so how are you doing today)
+55.12	55.91	Participant	i'm doing fine
+56.571	57.211	Ellie	thats_good (that's good)
+58.088	59.408	Ellie	where_originally (where are you from originally)
+59.9	66.2	Participant	i was born in texas and i moved to california when i was three and grew up here in california yeah
+64.871	65.461	Ellie	really (really)
+66.885	68.585	Ellie	very_young (you were very young weren't you)
+68.95	70.08	Participant	i was yes
+70.592	72.492	Ellie	often_backB (how often do you go back to your hometown)
+73.2	74.54	Participant	uh i've never been back there
+75.328	75.898	Ellie	why2 (why)
+76.85	77.38	Participant	um
+77.85	79.15	Participant	don't have any relatives there
+79.89	81.33	Participant	don't have a reason to go back there
+82.067	82.527	Ellie	okay_confirm (okay)
+83.953	86.063	Ellie	like_about_LA (what are some things you really like about l_a)
+86.95	87.72	Participant	um
+88.87	89.28	Participant	<makes sound with mouth>
+91.74	93.84	Participant	<laughter> well my my family's here
+95.57	96.08	Ellie	mhm (mhm)
+96.36	98.23	Participant	that's one uh the weather's great
+98.88	100.58	Participant	uh the beaches and mountains are here
+101.9	103.06	Participant	all those things are very good
+103.668	104.138	Ellie	yeah3 (yeah)
+104.975	107.325	Ellie	dont_like_LA (what are some things you don't really like about l_a)
+107.68	109.08	Participant	uh the traffic
+109.73	111.44	Participant	which is probably <probab> probably most people say
+112.24	112.96	Participant	um
+113.55	115.06	Participant	it's expensive to live here
+115.87	116.83	Participant	those are probably the top two
+118.16	119.19	Ellie	see_mean (i see what you mean)
+120.464	126.642	Ellie	travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+126.83	128.47	Participant	uh recently i've traveled
+130.202	131.722	Ellie	travel_changed (what do you enjoy about traveling)
+133.04	133.7	Participant	um
+136.08	139.08	Participant	well you get to see new places and and new people
+139.68	142.45	Participant	you get to learn more about other cultures
+143.34	144.79	Participant	and uh different ways people think
+146.076	147.756	Ellie	travel_trips (i'd love to hear about one of your trips)
+148.51	151.58	Participant	oh uh at the end of march i went to ecuador for a week
+152.897	153.627	Ellie	nice (nice)
+154.461	156.821	Ellie	memorableB (what's one of your most memorable experiences)
+154.58	154.69	Participant	uh
+157.45	161.52	Participant	um i spent most of most of one day with
+162.19	166.68	Participant	with an ecuadorian who only speaks spanish and i speak very little spanish so we got
+167.41	172.5	Participant	um it was it was challenging for me trying to communicate with him i felt like a a little kid
+171.655	172.125	Ellie	yeah3 (yeah)
+173.17	174.01	Participant	trying to
+174.64	176.64	Participant	you know say you know what's this what's this
+177.21	178.29	Participant	uh it was very humbling
+179.11	179.52	Participant	um
+180.73	181.98	Participant	you know just just seeing that
+183.64	187.09	Participant	you know when you don't when you're not able to communicate then that that can be very difficult
+188.441	188.951	Ellie	mhm (mhm)
+191.973	196.366	Ellie	shyoutgoing (do you consider yourself more shy or outgoing)
+196.23	198.19	Participant	i'm probably more of a shy person
+199.04	199.61	Ellie	why2 (why)
+201.45	202.72	Participant	genetics i don't know why
+205.12	206.26	Ellie	study (what did you study at school)
+207.08	211.02	Participant	um i'm an electrician so i studied electrical construction
+211.56	213.76	Participant	i've also studied uh computer networking
+214.827	215.237	Ellie	cool3 (cool)
+216.115	217.525	Ellie	hard_decision (how did you decide to do that)
+218.92	219.57	Participant	um
+220.41	221.2	Participant	it was
+222.87	223.31	Participant	i guess
+224.12	226.04	Participant	just uh kinda circumstances
+226.54	227.27	Participant	i needed
+227.93	228.4	Participant	the
+228.85	231.16	Participant	the the work i was doing wasn't providing for the family
+231.62	232.07	Participant	and
+232.86	239.2	Participant	i knew someone who could get me a job doing electrical work and so so i pursued that because of the the financial gain
+240.262	241.262	Ellie	happy_didthat (are you happy you did that)
+240.56	240.77	Participant	mm
+242.16	244.15	Participant	uh it's given me a lot of opportunity
+245.56	248.67	Participant	but uh i don't think it's what i what i wanna do for the rest of my life
+250.006	251.206	Ellie	dream_job (what's your dream job)
+252.47	256.12	Participant	well i'm actually uh pursuing becoming a missionary
+256.48	260.08	Participant	uh my wife and i are looking at moving down to ecuador in the fall
+261	262.13	Participant	uh for four years
+262.79	265.97	Participant	and last year we we trained in north carolina
+266.5	267.26	Participant	for one year
+267.8	270.67	Participant	um and that was like theology and bible training
+273.032	274.462	Ellie	change_directions (what made you decide to do that)
+275.85	276.41	Participant	um
+277.21	278.69	Participant	basically god put
+279.31	280.05	Participant	a um
+280.46	283.65	Participant	a desire in my heart to get beyond
+284.43	288.2	Participant	get beyond myself and and do something for other people
+288.51	289.53	Participant	to to go and
+289.99	291.88	Participant	and learn about another people their culture
+292.32	294.55	Participant	and to share the gospel with them
+296.044	296.944	Ellie	thats_great (that's great)
+299.462	302.16	Ellie	family_relationship (tell me about your relationship with your family)
+303.24	304.66	Participant	well in my immediate family
+305.11	305.68	Participant	um
+307	310.86	Participant	i'm i'm married i've been married for ten years this june and we have four daughters
+311.71	312.61	Participant	and then um
+313.56	315.37	Participant	but i i have one older brother
+316.39	317.6	Participant	uh no sisters
+319.34	319.84	Participant	um
+320.74	322.62	Participant	so what what do you wanna know about my family
+322.892	324.592	Ellie	family_roleB (how close are you to your family)
+325.23	325.71	Participant	um
+326.18	328.28	Participant	i'm really close with my wife and my daughters
+328.69	333.74	Participant	uh with my brother i'm not not real close partly because he's uh he's mentally handicapped
+334.26	337.07	Participant	um he has the mental capacity of a seven year old
+337.8	339.73	Participant	even though he's he's five years older than me
+340.19	345.47	Participant	so just kinda because of that dynamic it it's hard to have a a close relationship with him
+346.01	349.38	Participant	but i am pretty close with my parents my brother lives with my parents
+346.047	346.487	Ellie	isee_downer (i see)
+350.265	352.595	Ellie	influence_positive (who's someone that's been a positive influence in your life)
+353.83	354.46	Participant	um
+355.84	356.81	Participant	i'd say my
+357.18	358.37	Participant	my youth pastor in high school
+359.33	362.15	Participant	he was a real real positive influence in me
+363.846	365.006	Ellie	tell_about_that (can you tell me about that)
+365.76	366.33	Participant	um
+367.99	369.52	Participant	just he has a
+370.53	372.38	Participant	he has a drive and a zeal for
+372.98	374.44	Participant	for pursuing the truth
+374.87	375.38	Participant	um
+376.42	377.36	Participant	and just uh
+378.56	379.64	Participant	studying the bible and
+380.4	382.38	Participant	and because of his influence that kinda
+382.85	385.5	Participant	put me on a path to wanting to study the bible
+387.173	387.633	Ellie	okay_confirm (okay)
+389.176	391.236	Ellie	control_temper (how are you at controlling your temper)
+392.34	394.59	Participant	um i think i've gotten better at it
+395.54	396.28	Participant	there have been
+396.71	397.58	Participant	times when
+398.07	399.38	Participant	you know i'll i'll get angry
+399.77	400.51	Participant	and uh
+401.6	402.53	Participant	you know it can just
+403.2	406.19	Participant	kinda really rule over me just the frustration
+406.59	408.96	Participant	and i'm the type of person that it takes me
+409.62	413.96	Participant	um usually it it takes some time for me to get angry and and some time to
+414.9	415.97	Participant	to calm down again
+416.43	417.16	Participant	but i've
+417.72	419.18	Participant	i've learned um
+419.62	422.02	Participant	over time that really getting angry
+422.74	425.09	Participant	um and keeping that anger in doesn't
+425.65	426.12	Participant	it doesn't
+426.74	430.81	Participant	attack the other person or the thing that i'm angry at it just kinda attacks me
+431.42	434.62	Participant	and so really it it's not a it's not a good behavior to
+431.808	432.198	Ellie	right2 (right)
+435.49	436.41	Participant	to keep so
+436.9	438.86	Participant	when <whe> when things anger me i try to
+439.75	440.15	Participant	uh
+440.52	446.19	Participant	like talk to the other person say you know this <th> this situation is making me upset i try to kinda talk through it
+446.88	449.37	Participant	and and resolve it and come to a resolution
+450.01	454.59	Participant	um even more than just compromising but trying to really resolve the root the problem
+455.306	458.356	Ellie	last_argument (when was the last time you argued with someone and what was it about)
+458.97	460.25	Participant	um <sigh>
+461.79	462.29	Participant	well a
+463.08	466.09	Participant	a couple weeks ago or maybe it was maybe even a month ago
+466.64	467	Participant	um
+467.85	470.79	Participant	my wife and i were going on a trip with with her parents
+471.37	473.04	Participant	and her parents had already left
+473.64	476.12	Participant	um eh we were just driving down to
+477.08	478.36	Participant	orange country area for this trip
+479.07	479.56	Participant	and
+480.07	487.63	Participant	my wife wanted um wanted she had she had expectation of certain things to be done before the trip or certain things be packed
+488.18	488.79	Participant	and
+489.57	490.55	Participant	but hadn't really
+490.92	494.31	Participant	in <i> in my eyes hadn't expressed that clearly but in her eyes she had
+494.78	495.31	Participant	and so
+496.09	498.23	Participant	when i was trying to meet those expectations
+498.63	499.24	Participant	she
+499.78	500.34	Participant	um
+500.83	508.71	Participant	you know i i didn't meet 'em according to to what she wanted and and and she became angry and so from my perspective i was doing what she wanted
+509.33	511.51	Participant	um and kinda getting attacked for it
+512.02	512.51	Participant	so
+512.86	514.76	Participant	so then i i i started yelling at her
+515.2	515.64	Participant	and
+515.358	515.888	Ellie	yeah2 (yeah)
+516.37	518.68	Participant	and we you know we had that conflict but then
+520.03	522.87	Participant	you know with <wi> within an hour or so we had kinda talked through
+523.5	526.6	Participant	and we we had figured out what the the cause of that conflict was
+528.104	529.644	Ellie	describe_felt (how did you feel in that moment)
+531.12	531.65	Participant	um
+532.53	535.46	Participant	are you asking the moment of during the conflict
+535.901	536.371	Ellie	yeah3 (yeah)
+536.85	537.54	Participant	uh
+537.96	541.53	Participant	very you know just mm very angry you know you can feel it
+542.24	543.08	Participant	in your body
+543.45	543.97	Participant	um
+544.25	544.98	Participant	part partly i
+545.4	546.29	Participant	the i guess the
+546.69	553.59	Participant	anger was probably the secondary response but my initial response was that um i felt <f> was feeling attacked and that came out as anger
+552.702	553.172	Ellie	mm (mm)
+554.27	554.87	Participant	so
+555.44	556.55	Participant	i would think um
+556.92	560.22	Participant	yeah so initially i felt attacked and then that resulted in the anger
+561.132	561.532	Ellie	downer (okay)
+563.121	566.721	Ellie	hard_decisionB (tell me about the hardest decision you've ever had to make)
+567.31	569.17	Participant	mm hmm hmm hmm
+576.12	577.55	Participant	i guess it was um
+579.17	580.27	Participant	deciding to go
+581.52	583.86	Participant	um to go to our training last year
+584.46	586.94	Participant	um i i felt that god had put on my heart that
+587.36	588.98	Participant	that this was something i was supposed to pursue
+589.46	591.77	Participant	um my wife didn't feel that way
+592.44	593.01	Participant	and
+593.93	594.25	Participant	i
+595.48	598.62	Participant	i i just felt very strongly that that was something that we should pursue
+599.26	599.83	Participant	and
+600.71	606.74	Participant	but at the same time i knew that if if my wife wasn't supportive of it that it it would it would kinda fall apart
+607.26	607.77	Participant	so
+608.61	610.47	Participant	i kinda relinquished <r> relinquished it
+611.32	615.55	Participant	um and i and i said to her you know i'm not gonna make you go um
+616.78	623.48	Participant	you know if if you wanna go then <th> then we'll go but if not then we'll we'll do something else we'll we'll look at at doing something else and not going
+624.07	626.19	Participant	uh and so that that was difficult for me 'cause uh
+626.61	631.79	Participant	you know again that that that kinda felt like a loss 'cause i felt deeply that that's what i was supposed to do
+632.38	632.85	Participant	um
+633.48	635.74	Participant	but then after i kinda gave that up
+636.24	636.74	Participant	then
+637.24	637.53	Participant	um
+638.08	642.83	Participant	then she came to a point where she said no i have a peace about about doing this and then we went ahead and pursued it so
+643.59	647.06	Participant	um so just kinda giving it up was <wa> was <wa> was difficult for me
+647.114	647.554	Ellie	yeah_downer (yeah)
+649.134	653.257	Ellie	memory_erase (tell me about an event or something that you wish you could erase from your memory)
+655.58	658.85	Participant	tell you about something bad or something that i can erase from my memory
+659.249	659.759	Ellie	mhm (mhm)
+660.38	661.23	Participant	um
+664.66	665.86	Participant	oh let me see
+671.77	673.29	Participant	i'm not sure um
+676.53	678.37	Participant	i don't know i i can't really
+679.16	680.88	Participant	think of anything very traumatic
+681.62	684.74	Participant	um that i would wanna erase but i i think
+685.26	688.12	Participant	you know good things and positive <posi> eh good things and bad things they all kinda
+690.32	691.21	Participant	shape who we are
+691.82	692.43	Participant	and
+694	696.96	Participant	so i i i can't think of anything that i would want to erase
+697.364	697.824	Ellie	okay_confirm (okay)
+698.941	701.381	Ellie	easy_sleep (how easy is it for you to get a good night's sleep)
+702.26	703.72	Participant	um usually
+704.42	705.6	Participant	usually it's not too bad
+706.37	706.84	Participant	um
+708.11	713.59	Participant	are are you referring to on the the questionnaire where i said that i had trouble <trou> some trouble sleeping
+714.761	715.231	Ellie	yeah3 (yeah)
+715.82	716.24	Participant	um
+717.54	719.03	Participant	the the job i work the
+719.51	720.12	Participant	the um
+721.15	722.87	Participant	kinda the the scheduling has shifted so i
+723.29	726.05	Participant	so lately i've been working some nighttime shifts
+726.48	727.47	Participant	or graveyard shifts
+728.01	728.4	Participant	so
+728.99	729.41	Participant	um
+730.18	731.48	Participant	coming home in the morning
+731.83	734.18	Participant	you know when it's light then it's been hard for me to sleep
+734.64	737.75	Participant	but it was it was mostly 'cause i was staying up so late because of work
+738.377	739.327	Ellie	understand (i understand)
+740.583	743.023	Ellie	easy_sleep (how easy is it for you to get a good night's sleep)
+743.31	744.61	Participant	uh it pretty easy
+744.968	746.748	Ellie	sleep_affects (what are you like when you don't sleep well)
+747.35	747.98	Participant	um
+748.65	751.25	Participant	when i when i don't sleep then i do get cranky
+752.482	753.862	Ellie	feel_lately (how have you been feeling lately)
+752.59	752.85	Participant	uh
+754.41	756.06	Participant	i i've been feeling good lately
+757.072	757.712	Ellie	thats_good (that's good)
+758.867	762.037	Ellie	behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+764.11	765.6	Participant	no not really
+766.965	767.425	Ellie	okay_confirm (okay)
+768.56	770.6	Ellie	ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+771.01	771.29	Participant	no
+771.813	773.623	Ellie	depression_diagnosed (have you been diagnosed with depression)
+773.94	774.23	Participant	no
+775.243	777.79	Ellie	happy_lasttime (tell me about the last time you felt really happy)
+779.95	780.86	Participant	um
+793.69	794.17	Participant	hmm
+795.95	797.23	Participant	i don't know um
+798.38	799.64	Participant	can't think of anything that was
+800.92	801.85	Participant	kinda out of the ordinary
+802.28	802.58	Participant	but
+803.29	803.78	Participant	um
+804.81	805.45	Participant	yesterday
+806.07	807.53	Participant	we my wife and i took
+808.38	812.25	Participant	took our three <th> our our three younger girls we took them to the park the oldest one
+812.67	814.41	Participant	um stayed with her grandma
+815.07	817.47	Participant	but we uh we took 'em to the park and they played
+818.08	818.72	Participant	and
+819.96	822.73	Participant	yeah so those <th> those are always happy times when we take the kids to the park
+823.912	825.272	Ellie	good_hear (that's so good to hear)
+826.575	828.265	Ellie	BF_describe (how would your best friend describe you)
+830.02	830.73	Participant	um
+837.07	838.39	Participant	i i think he'd say i'm a
+839.16	840.01	Participant	a family man
+840.71	841.57	Participant	that um
+844.68	847.87	Participant	i'm uh dependable that he can he can count on me
+848.59	850.87	Participant	um usually my my friend i end up doing
+851.44	851.79	Participant	um
+852.39	853.81	Participant	different work around the house for him
+854.41	856.13	Participant	'cause i'm kind of a handyman so
+857.55	862.03	Participant	so in that way i i i think he'd say i'm kinda dependable or someone he could go to for advice
+862.344	862.854	Ellie	mhm (mhm)
+864.849	867.746	Ellie	self_change (what are some things you wish you could change about yourself)
+868.16	868.82	Participant	um
+878.28	879.55	Participant	i guess i would um
+882.87	885.04	Participant	i guess i would like to be able to
+885.79	886.23	Participant	um
+886.73	888.36	Participant	start conversations with people
+889.01	889.57	Participant	easier
+890.97	891.84	Participant	uh sometimes
+892.79	894.37	Participant	i have i have trouble
+894.81	895.92	Participant	just talking to people
+896.54	901.1	Participant	especially if they're in a group if <i> if people are one on one then it's it's usually easier for me to talk to them
+901.52	904.31	Participant	but kinda talking to people in a group
+905.15	906.83	Participant	uh i wish i was a little better at that
+907.864	908.334	Ellie	uh_huh (uh huh)
+909.26	909.99	Participant	now if it's
+909.957	912.907	Ellie	advice_back (what advice would you give to yourself ten or twenty years ago)
+913.4	913.76	Participant	okay
+914.21	916.37	Participant	what what i was gonna say right before that was that um
+917.83	925.04	Participant	uh if if i'm giving a speech or something to a large group i don't really have a problem with that but if it's more interaction type thing then that's kinda difficult
+925.54	926.03	Participant	uh
+926.8	929.32	Participant	advice i would've given to myself ten or twenty years ago
+930.28	931.02	Participant	um
+931.77	938.07	Participant	probably would've been to to go to college right away instead of going to school later in life
+940.14	941.02	Participant	um
+946.25	946.9	Participant	that's about it
+947.787	948.247	Ellie	okay_confirm (okay)
+948.34	950.46	Participant	think that would made that would've made the biggest difference
+951.03	951.9	Participant	in my life i think
+954.086	956.386	Ellie	Ellie17Dec2012_08 (what are you most proud of in your life)
+958.15	958.93	Participant	um
+960.85	963.1	Participant	well i have i have four kids and
+963.96	965.59	Participant	i hope i'm raising 'em right i hope that
+966.66	967.3	Participant	that um
+967.78	970.62	Participant	you know the mistakes that i've made i can kinda guide them
+971.38	973.89	Participant	through their their journey in life and i hope that they
+974.52	975.28	Participant	end up a little
+976.39	977.38	Participant	better for it than
+977.92	978.31	Participant	than me
+978.8	979.34	Participant	um
+980.76	981.76	Participant	yeah i just hope
+982.15	983.18	Participant	hope kinda through them
+984.06	984.74	Participant	that i can
+985.95	986.25	Participant	you know
+987.47	988.69	Participant	leave <lea> leave something worthwhile
+990.487	992.927	Ellie	asked_everything (okay i think i have asked everything i need to)
+993.908	995.348	Ellie	appreciate_open (thanks for sharing your thoughts with me)
+995.48	996.18	Participant	you're welcome
+996.556	997.166	Ellie	bye (goodbye)
+997.44	997.82	Participant	goodbye

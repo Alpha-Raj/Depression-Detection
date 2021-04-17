@@ -1,0 +1,175 @@
+start_time	stop_time	speaker	value
+9.25	10.13	Participant	<synch>
+22.735	44.275	Ellie	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)
+44.43	44.66	Participant	yeah
+45.407	45.867	Ellie	okay_confirm (okay)
+46.937	49.207	Ellie	how_doingV (so how are you doing today)
+49.71	50.62	Participant	i'm doing already how are you doing
+51.264	51.904	Ellie	thats_good (that's good)
+53.137	54.457	Ellie	where_originally (where are you from originally)
+55.76	56.54	Participant	northern illinois
+57.606	58.196	Ellie	really (really)
+59.746	60.826	Ellie	when_LA (when did you move to l_a)
+61.94	62.9	Participant	two and a half years ago
+64.125	66.025	Ellie	often_backB (how often do you go back to your hometown)
+66.66	67.18	Participant	haven't yet
+68.04	68.81	Participant	since i been here
+68.969	69.539	Ellie	why2 (why)
+70.88	73.36	Participant	haven't had a chance to gonna go back later this year
+74.547	74.957	Ellie	cool3 (cool)
+76.068	77.688	Ellie	compares_LA (how does it compare to l_a)
+79.15	79.63	Participant	colder
+80.46	81.08	Participant	or warmer
+82.817	83.847	Ellie	see_mean (i see what you mean)
+84.999	86.019	Ellie	why_LA (why did you move to l_a)
+86.36	86.75	Participant	work
+88.746	89.746	Ellie	happy_didthat (are you happy you did that)
+90.23	90.49	Participant	yeah
+92.059	94.529	Ellie	adapted_LA (how easy was it for you to get used to living in l_a)
+95.66	97.27	Participant	mm took a little while but i got used to it
+98.596	99.756	Ellie	tell_about_that (can you tell me about that)
+102	105.54	Participant	no weather xxx variations comparative um
+106.2	107	Participant	traffic
+108.73	109.19	Participant	sunlight
+110.309	110.779	Ellie	mm (mm)
+112.392	118.58	Ellie	travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)
+119.14	119.58	Participant	a little bit
+120.985	122.505	Ellie	travel_changed (what do you enjoy about traveling)
+123.34	124.37	Participant	seeing different things
+126.211	127.891	Ellie	travel_trips (i'd love to hear about one of your trips)
+129.89	131.52	Participant	been to europe a couple of times
+133.06	134.11	Participant	been around the country
+133.247	133.977	Ellie	nice (nice)
+136.931	139.291	Ellie	memorableB (what's one of your most memorable experiences)
+144.62	146.45	Participant	<sigh> hmm
+148.14	150.32	Participant	visiting yosemite and sequoia parks were fun
+153.463	153.873	Ellie	cool3 (cool)
+156.098	160.49	Ellie	shyoutgoing (do you consider yourself more shy or outgoing)
+160.58	165.35	Participant	depends on the circumstance most of the time i can fake outgoing or try to be outgoing
+166.936	167.446	Ellie	mhm (mhm)
+168.773	170.303	Ellie	what_do_when_annoyed (what do you do when you are annoyed)
+173.6	176.26	Participant	try to relax and breathe through it and move on
+177.697	179.757	Ellie	control_temper (how are you at controlling your temper)
+181.19	182.26	Participant	depends on the context
+184.127	187.177	Ellie	last_argument (when was the last time you argued with someone and what was it about)
+189.34	193.27	Participant	probably yesterday and my children about them not doing what they were told to do
+196.459	200.239	Ellie	situation_handled (tell me about a situation that you wish you had handled differently)
+202.98	207.12	Participant	arguments with my wife where i should've probably been more patient and understanding
+208.195	209.525	Ellie	give_example (can you give me an example of that)
+212.43	212.87	Participant	hmm
+213.52	214	Participant	um
+215.59	221.81	Participant	sometimes when it's more of a hormonal period like this week i should just probably breathe through things and
+222.65	226.71	Participant	recognize that she's going through things and i should just be more patient
+227.834	228.294	Ellie	okay_confirm (okay)
+230.038	233.638	Ellie	hard_decisionB (tell me about the hardest decision you've ever had to make)
+237.87	238.69	Participant	um
+240.27	241.33	Participant	what i was gonna do with my life
+244.976	246.386	Ellie	hard_decision (how did you decide to do that)
+248.92	253.52	Participant	it was easy when i was nineteen i could just decide to do strange difficult things and
+254.53	256.37	Participant	had the boldness to follow through with them
+258.353	259.493	Ellie	study (what did you study at school)
+260.45	262.41	Participant	hebrew and semitic studies and classics
+264.092	265.222	Ellie	sounds_interesting (that sounds interesting)
+265.517	266.777	Ellie	still_working_on_X (are you still working in that)
+267.85	268.48	Participant	kind of
+270.149	271.349	Ellie	dream_job (what's your dream job)
+272.17	274.29	Participant	um i'm i'm in ministry and
+275.37	277.51	Participant	that's working out the way i kinda want it to be
+278.626	279.266	Ellie	thats_good (that's good)
+282.02	286.151	Ellie	memory_erase (tell me about an event or something that you wish you could erase from your memory)
+290.08	290.6	Participant	hmm
+297.63	301.37	Participant	some embarrassing things when i was a teenager probably
+304.133	304.593	Ellie	okay_confirm (okay)
+307.158	309.861	Ellie	family_relationship (tell me about your relationship with your family)
+311.24	311.85	Participant	it's pretty strong
+313.559	315.259	Ellie	family_roleB (how close are you to your family)
+316.52	318.91	Participant	i talk to my parents about once a day maybe
+319.66	320.86	Participant	once every other day and
+321.94	324.55	Participant	i'm constantly talking with my wife and children
+326.56	326.81	Participant	xxx
+327.219	328.329	Ellie	kids_elaborate (tell me about your kids)
+329.83	333.49	Participant	i've got four of them they keep me very busy um they're between
+334.17	335.92	Participant	nine and three
+338.262	340.212	Ellie	easy_parent (do you find it easy to be a parent)
+342.19	344.52	Participant	sometimes most of the time no
+346.048	348.028	Ellie	parent_hardest (what's the hardest thing about being a parent)
+352.62	356.58	Participant	character development recognizing that
+357.16	359.2	Participant	they need <n> need space to grow
+360.39	360.86	Ellie	yeah3 (yeah)
+362.171	363.891	Ellie	parent_best (what's the best thing about being a parent)
+365.52	365.81	Participant	when
+366.3	369.84	Participant	when it works and you see character development and growth and
+370.89	371.85	Participant	and exploration
+374.565	378.233	Ellie	parent_differences (what are some ways that you're different as a parent than your parents)
+380.8	384.79	Participant	i have more standards willingness to enforce standards
+387.242	389.572	Ellie	influence_positive (who's someone that's been a positive influence in your life)
+393.54	395.3	Participant	mm <sigh> mm
+396.02	396.63	Participant	my wife
+398.255	399.415	Ellie	tell_about_that (can you tell me about that)
+402.21	402.65	Participant	um
+405.33	408.85	Participant	she's been there for me for fifteen years now and
+412.02	414	Participant	helped give me the self-confidence to be who i am
+415.482	416.842	Ellie	good_hear (that's so good to hear)
+418.059	420.499	Ellie	easy_sleep (how easy is it for you to get a good night's sleep)
+422.11	424.9	Participant	better now that i'm not drinking as much pop at night
+426.631	428.411	Ellie	sleep_affects (what are you like when you don't sleep well)
+429.83	430.68	Participant	irritable
+432.29	433.38	Participant	shorter temper
+434.964	435.474	Ellie	mhm (mhm)
+436.468	437.848	Ellie	feel_lately (how have you been feeling lately)
+439.38	439.85	Participant	mm
+440.79	442.96	Participant	pretty good pretty good i'm doing
+443.72	448.07	Participant	been making some better uh decisions with my uh diet it's doing better
+449.247	450.147	Ellie	thats_great (that's great)
+451.97	455.14	Ellie	behavior_changes (have you noticed any changes in your behavior or thoughts lately)
+458.49	459.68	Participant	<sigh>
+460.36	460.77	Participant	mm
+461.64	468.51	Participant	feel a little bit more empowered not as defeatist as i was in a process where i wasn't eating very well wasn't exercising
+469.32	476.45	Participant	wasn't able to get doing those things i've been doing a little better at that recently past few weeks and that's been a little bit more encouraging
+477.292	477.762	Ellie	uh_huh (uh huh)
+479.51	481.55	Ellie	ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)
+482.41	482.65	Participant	no
+483.698	485.508	Ellie	depression_diagnosed (have you been diagnosed with depression)
+485.97	486.3	Participant	nope
+487.494	490.041	Ellie	happy_lasttime (tell me about the last time you felt really happy)
+494.54	496.64	Participant	really happy um
+498.33	501.45	Participant	probably a few weeks ago at the beach when everybody was having a good time
+504.184	505.874	Ellie	BF_describe (how would your best friend describe you)
+510.15	510.45	Participant	hmm
+513.31	514.05	Participant	confident
+516.44	517.03	Participant	loud
+518.88	519.48	Participant	intelligent
+522.914	523.374	Ellie	okay_confirm (okay)
+523.43	523.87	Participant	i guess
+525.741	528.636	Ellie	self_change (what are some things you wish you could change about yourself)
+532.04	533.57	Participant	hmm more patient
+534.59	535.8	Participant	more um
+540.36	541.89	Participant	more able to
+543.09	547.3	Participant	automatically engage with people as opposed to being hesitant at first
+548.308	548.778	Ellie	mm (mm)
+549.984	555.29	Ellie	feelbadly (tell me about a time when someone made you feel really badly about yourself)
+558.91	559.34	Participant	oh
+559.89	562.25	Participant	middle school when i was always the
+564.56	566.12	Participant	low man on the totem pole socially
+568.78	569.06	Participant	<sniffle>
+569.52	571.1	Participant	being the constant butt of jokes
+573.916	576.866	Ellie	advice_back (what advice would you give to yourself ten or twenty years ago)
+580.43	583.92	Participant	don't fall in the trap of thinking that middle and high school is life
+586.675	587.185	Ellie	mhm (mhm)
+589.903	592.01	Ellie	ideal_weekendC (tell me how you spend your ideal weekend)
+592.95	593.46	Participant	<laughter>
+596.27	603.87	Participant	um some time you know with children and family doing <d> doing some fun activity beach or museum or something
+605.08	609.86	Participant	some time with the wife some time just by myself to read and kinda refocus
+612.445	612.905	Ellie	okay_confirm (okay)
+614.19	617.44	Ellie	Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)
+622.93	623.23	Participant	hmm
+627.42	630.92	Participant	mm participate in some high level academic discussions
+635.515	635.925	Ellie	cool3 (cool)
+637.743	640.043	Ellie	Ellie17Dec2012_08 (what are you most proud of in your life)
+646.41	646.81	Participant	hmm
+654.4	655.82	Participant	that i've been able to
+657.8	662.29	Participant	maintain the standard and quality of life for myself and my family that i've been able to do so far
+664.007	664.907	Ellie	thats_great (that's great)
+666.403	668.843	Ellie	asked_everything (okay i think i have asked everything i need to)
+669.344	670.784	Ellie	appreciate_open (thanks for sharing your thoughts with me)
+672.603	673.213	Ellie	bye (goodbye)
