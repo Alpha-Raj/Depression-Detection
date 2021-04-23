@@ -1,0 +1,45 @@
+Start_Time,End_Time,Text,Confidence
+25.6,26,yeah,0.818
+39.7,40.3,I'm good,0.858
+45.8,46.5, from Chicago,0.807
+53.2,53.8, the weather,0.798
+61.5,62.2, traffic,0.719
+77.5,78.2, not a lot,0.846
+89,90.6, getting accepted into USC,0.909
+97.1,98.6, I got accepted into USC,0.788
+114.3,116, I am going to graduate this semester,0.798
+128.2,129, become a doctor,0.782
+135.4,138, either orthopedic surgeon or anesthesiologist,0.816
+156.2,157.4, I don't know my going,0.801
+164.1,165.9, it's good clothes,0.799
+172.4,173.3, sleep,0.706
+180.8,181.3, I'm good,0.903
+193.2,195.2, mmm I don't remember,0.747
+203.1,206.2, let me know I don't remember when the last time I argued with someone,0.846
+219.9,221.3, nothing really comes to mind right now,0.862
+223,223.5, I don't know,0.802
+239,240.4, I don't feel guilty about anything,0.839
+249.4,251.1, I don't feel guilty about anything,0.796
+267.3,269, what to eat for breakfast this morning,0.862
+276.8,278.3, was either an omelet or a burrito,0.752
+279.4,280.2, let's have a choice,0.77
+289,290.3, there's nothing really I regret,0.856
+296.7,298.4, there's nothing I regret,0.827
+315.9,318.2, there's nothing I want to erase your memory,0.897
+325.7,326.5, there's nothing to tell,0.837
+332.1,332.9, I have not know,0.834
+343,343.5, good,0.913
+351.1,353.4, excited to graduate some feeling good,0.879
+364.1,364.7, nope,0.913
+379.7,380.3, pretty easy,0.907
+389.5,390.2, not happy,0.824
+399.2,399.5, now,0.646
+419.5,420.3, I don't know,0.774
+432.9,433.5, yesterday,0.799
+440.5,442.9, friend came from Chicago so he's visiting,0.863
+449.5,450.1, my parents,0.791
+459.3,461.8, just supporting I was there,0.813
+468.7,469.3, outgoing,0.697
+477.1,478.1, once Santa Monica,0.708
+486.5,488.8, my accomplishments with school,0.78
+497.7,498.3, you're welcome,0.85
